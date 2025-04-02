@@ -1,2 +1,1 @@
-# link-gallery
-Gallery for LINK
+# Gallery
