@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lnelab/gallery.git"
+    "url": "git+https://github.com/lnelab/link-gallery.git"
   },
   "author": "LNE",
   "license": "MIT",
