@@ -1,6 +1,10 @@
 # LINK Gallery
 
+<img width="250px" src="assets/link_logo.svg" />
+
 LINK is a versatile, cross-platform, and highly compatible keyboard assistant designed specifically to support customizable keyboards. Its primary goal is to empower users with enhanced keyboard control and personalized configuration capabilities.
+
+[Ready to LINK?](https://link.lnelab.com/)
 
 ## Make LINK recognize your keyboard
 
