@@ -1,0 +1,17 @@
+{
+    "name": "LINKPAD R",
+    "vendorId": "0x4c4e",
+    "productId": "0x2014",
+    "firmware": "marin_firmware",
+    "menus": [
+        "rgblight",
+        "split"
+    ],
+    "matrix": {
+        "rows": 6,
+        "cols": 4
+    },
+    "layouts": {
+        "keymap": []
+    }
+}
